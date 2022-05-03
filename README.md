@@ -13,4 +13,4 @@ The contributed codes are written in one of the following programming languages:
 
 ## Answered Queries
 
-* How to find the maximum subarray sum in python? **[Python Code](Python/kadan_algorithm.py)**
+* How to find the maximum subarray sum in python? **[Python Code](Python/kadane_algorithm.py)**
