@@ -1,5 +1,5 @@
 """
-Implementation of the "Sieve of Eratosthenes"
+Implementation of the "Sieve of Eratosthenes" (https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 algorithm.
 It aims at finding all primes that are less
 than or equal to a certain upperbound, denoted
