@@ -18,3 +18,4 @@ The contributed codes are written in one of the following programming languages:
 * How to find the power of a number efficiently, in Java? **[Get Java code](Java-codes/EfficientPower.java)**
 * How to find efficiently all the prime numbers that are less than or equal to some upper bound? **[Get Python code](Python-codes/sieve_of_eratosthenes.py)**
 * How to find the element with the majority count in a given sequence of values efficiently? **[Get Python code](Python-codes/boyer_moore.py)**
+* How to find the second smallest value in an array without sorting it, in Java? **[Get Java code](Java-codes/SecondSmallest.java)**
