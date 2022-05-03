@@ -13,7 +13,8 @@ The contributed codes are written in one of the following programming languages:
 
 ## Answered Queries
 
-* How to find the maximum subarray sum in python? **[Get Python code](Python-codes/kadane_algorithm.py)**
+* How to find the maximum subarray sum in python efficiently? **[Get Python code](Python-codes/kadane_algorithm.py)**
 * How to perform prime factorization of a number in Java? **[Get Java code](Java-codes/PrimeFactorization.java)**
 * How to find the power of a number efficiently, in Java? **[Get Java code](Java-codes/EfficientPower.java)**
 * How to find efficiently all the prime numbers that are less than or equal to some upper bound? **[Get Python code](Python-codes/sieve_of_eratosthenes.py)**
+* How to find the element with the majority count in a given sequence of values efficiently? **[Get Python code](Python-codes/boyer_moore.py)**
