@@ -1,5 +1,5 @@
 """
-Implementation of "kadane's algorithm".
+Implementation of "kadane's algorithm" (https://en.wikipedia.org/wiki/Maximum_subarray_problem).
 It returns the maximum subarray sum for
 a given bigger array.
 Time complexity: O(n)
