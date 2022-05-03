@@ -14,3 +14,4 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 * How to find the maximum subarray sum in python? **[Download Python code](Python-codes/kadane_algorithm.py)**
+* How to perform prime factorization of a number in Java? **[Download Java code](Java-codes/PrimeFactorization.java)**
