@@ -15,6 +15,7 @@ The contributed codes are written in one of the following programming languages:
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
 * How to find the maximum subarray sum efficiently? **[Get code](Python-codes/kadane_algorithm.py)**
+* How to construct a prefix sum array? **[Get code](Python-codes/prefix_sum_array.py)**
 * How to find efficiently all the prime numbers that are less than or equal to some upper bound? **[Get code](Python-codes/sieve_of_eratosthenes.py)**
 * How to find the element with the majority count in a given sequence of values efficiently? **[Get code](Python-codes/boyer_moore.py)**
 * How to perform Bubble sort? **[Get code](Python-codes/bubble_sorting.py)**
