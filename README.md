@@ -20,3 +20,4 @@ The contributed codes are written in one of the following programming languages:
 * How to find the element with the majority count in a given sequence of values efficiently? **[Get Python code](Python-codes/boyer_moore.py)**
 * How to find the second smallest value in an array without sorting it, in Java? **[Get Java code](Java-codes/SecondSmallest.java)**
 * How to find the Fibonacci of an integer value iteratively, in Java? **[Get Java code](Java-codes/Fibonacci.java)**
+* How to find a target element within a search pool using binary search, in Java? **[Get Java code](Java-codes/BinarySearch.java)**
