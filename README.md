@@ -18,7 +18,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find efficiently all the prime numbers that are less than or equal to some upper bound? **[Get code](Python-codes/sieve_of_eratosthenes.py)**
 * How to find the element with the majority count in a given sequence of values efficiently? **[Get code](Python-codes/boyer_moore.py)**
 * How to perform Bubble sort? **[Get code](Python-codes/bubble_sorting.py)**
-* * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
+* How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
 * How to perform prime factorization of a number? **[Get code](Java-codes/PrimeFactorization.java)**
