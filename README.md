@@ -24,6 +24,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to merge two sorted arrays? **[Get code](Java-codes/MergingTwoArrays.java)**
 * How to solve the towers of Hanoi problem? **[Get code](Java-codes/TowersOfHanoi.java)**
 * How to perform prime factorization of a number? **[Get code](Java-codes/PrimeFactorization.java)**
 * How to find the power of a number efficiently? **[Get code](Java-codes/EfficientPower.java)**
