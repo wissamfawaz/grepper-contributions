@@ -32,3 +32,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the Fibonacci of an integer value iteratively? **[Get code](Java-codes/Fibonacci.java)**
 * How to find a target element within a search pool using binary search? **[Get code](Java-codes/BinarySearch.java)**
 * How to swap two values using a supporting method? **[Get code](Java-codes/SwapValues.java)**
+
+### JavaScript codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />:
+* How to perform merge sort? **[Get code](JavaScript-codes/mergeSort.js)**
+
