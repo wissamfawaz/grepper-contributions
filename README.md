@@ -35,4 +35,5 @@ The contributed codes are written in one of the following programming languages:
 
 ### JavaScript codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />:
 * How to perform merge sort? **[Get code](JavaScript-codes/mergeSort.js)**
+*  How to build a heap? **[Get code](JavaScript-codes/heap.js)**
 
