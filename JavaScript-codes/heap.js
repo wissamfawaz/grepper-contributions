@@ -1,7 +1,7 @@
 // Aim is to build a min-heap from an
 // array of integers with support for following methods:
 // buildHeap(array): to build the heap from array
-// siftDown(currentIdx, endIdx, heap): to bubble an element down
+// bubbleDown(currentIdx, endIdx, heap): to bubble an element down
 // bubbleUp(currentIdx, heap): to bubble an element up
 // peek(): returns min value without removing it
 // remove(): removes min value
