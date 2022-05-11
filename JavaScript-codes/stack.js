@@ -24,7 +24,7 @@ class Stack {
   push(item) {
     this.items.push(item);
   }
-  // pop: pop top from stack
+  // pop: pop top element from stack
   pop() {
     if (this.isEmpty) {
       throw new StackError("Stack is empty!");
