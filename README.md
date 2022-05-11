@@ -34,6 +34,7 @@ The contributed codes are written in one of the following programming languages:
 * How to swap two values using a supporting method? **[Get code](Java-codes/SwapValues.java)**
 
 ### JavaScript codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />:
-* How to perform merge sort? **[Get code](JavaScript-codes/mergeSort.js)**
+* How to build a stack? **[Get code](JavaScript-codes/stack.js)**
 * How to build a heap? **[Get code](JavaScript-codes/heap.js)**
+* How to perform merge sort? **[Get code](JavaScript-codes/mergeSort.js)**
 
