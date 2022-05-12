@@ -15,9 +15,10 @@ public class CountingSort {
 	public static void main(String[] args) {
 		int[] arr = { 2, 4, 3, 1 };
 
-		System.out.println("Before: " + Arrays.toString(arr));
+		System.out.println(Arrays.toString(arr)); // [2, 4, 3, 1]
 		int[] sortedArr = countingSort(arr);
-		System.out.println("After counting sort: " + Arrays.toString(sortedArr));
+		System.out.println(Arrays.toString(sortedArr)); // [1, 2, 3, 4]
+
 	}
 
 	private static int[] countingSort(int[] arr) {
@@ -26,7 +27,7 @@ public class CountingSort {
 		 * of occurrences of every element in arr.
 		 * Then uses that information to sort these elements.
 		 */
-		int max = findMax(arr); // linear
+		int max = findMax(arr); 
 		if (max == Integer.MIN_VALUE) {
 			return new int[] {};
 		}
