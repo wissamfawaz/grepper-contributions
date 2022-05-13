@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to develop a TCP echo server? **[Get code](Python-codes/tcp_echo_server.py)**
 * How to develop a UDP echo client? **[Get code](Python-codes/udp_echo_client.py)**
 * How to develop a UDP echo server? **[Get code](Python-codes/udp_echo_server.py)**
 * How to find the maximum subarray sum efficiently? **[Get code](Python-codes/kadane_algorithm.py)**
