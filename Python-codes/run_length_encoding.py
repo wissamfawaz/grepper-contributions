@@ -15,7 +15,7 @@ Space complexity: O(n)
 def run_length_encode(input_str):
     run_length_encoded_string = []
     current_run_length = 1
-    # Perform a run length encoding of input_string
+    # Perform a run length encoding of input_str
     for i in range(1, len(input_str)):
         current_char = input_str[i]
         previous_char = input_str[i-1]
