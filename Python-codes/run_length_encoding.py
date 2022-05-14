@@ -12,10 +12,6 @@ For example, "AAAAAAAAAAAA" is run-length encoded as "9A3A".
 Time complexity: O(n), where n is length of string to encode
 Space complexity: O(n)
 """
-from cProfile import run
-from runpy import run_module
-
-
 def run_length_encode(input_str):
     run_length_encoded_string = []
     current_run_length = 1
