@@ -27,6 +27,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to efficiently find the three largest numbers of array? **[Get code](Java-codes/ThreeLargestNumbers.java)**
 * How to perform couting sort? **[Get code](Java-codes/CountingSort.java)**
 * How to merge two sorted arrays? **[Get code](Java-codes/MergingTwoArrays.java)**
 * How to solve the towers of Hanoi problem? **[Get code](Java-codes/TowersOfHanoi.java)**
