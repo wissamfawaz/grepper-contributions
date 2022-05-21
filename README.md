@@ -44,10 +44,11 @@ The contributed codes are written in one of the following programming languages:
 * How to swap two values using a supporting method? **[Get code](Java-codes/SwapValues.java)**
 
 ### JavaScript codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />:
-* How to find the index of the first non-repeating character in a string of lowercase alphabetic characters? **[Get code](JavaScript-codes/uniqueChar.js)**
+* How to find the index of the first non-repeating char in a string of lowercase alphabetic chars? **[Get code](JavaScript-codes/uniqueChar.js)**
 * How to perform selection sort? **[Get code](JavaScript-codes/selectionSort.js)**
 * How to build a stack? **[Get code](JavaScript-codes/stack.js)**
 * How to build a heap? **[Get code](JavaScript-codes/heap.js)**
 * How to perform merge sort? **[Get code](JavaScript-codes/mergeSort.js)**
+* How to add DOM elements to document body? **[Get code](JavaScript-codes/addDOMElts.js)**
 * How to destructure objects and arrays? **[Get code](JavaScript-codes/destructureArrsObjs.js)**
 
