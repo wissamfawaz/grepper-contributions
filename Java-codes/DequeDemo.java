@@ -22,8 +22,8 @@ public class DequeDemo {
 		// Deque as Queue
 		deque.add(5); // Enqueue an element
 		deque.add(2);
-		// Dequeue the front element of queue
 		System.out.println(deque.getFirst()); // 5
+		// Dequeue the front element of queue
 		deque.removeFirst();
 		System.out.println(deque.removeFirst()); // 2
 	}
