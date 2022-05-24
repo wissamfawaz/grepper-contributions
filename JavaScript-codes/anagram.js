@@ -7,7 +7,7 @@
   assumed to be composed of lowercase alphabetic
   letters only.
 
-  Time complexity: O(n)
+  Time complexity: O(n), where n is length of string
   Space complexity: O(1)
 */
 // Return true if str1 is anagram of str2
