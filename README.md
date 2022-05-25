@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to check if a given string is a palindrome? **[Get code](Python-codes/palindrome.py)**
 * How to find three largest values of an array efficiently? **[Get code](Python-codes/three_largest.py)**
 * How to perform insertion sort? **[Get code](Python-codes/insertion_sort.py)**
 * How to perform run-length encoding? **[Get code](Python-codes/run_length_encoding.py)**
