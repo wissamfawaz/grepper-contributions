@@ -30,6 +30,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* how to perform quick sort? **[Get code](Java-codes/QuickSort.java)**
 * how to use deque as stack or queue in java? **[Get code](Java-codes/DequeDemo.java)**
 * How to efficiently find the highest power of 2 that divides a given number n? **[Get code](Java-codes/HighestPowerOf2.java)**
 * How to implement a Trie data structures? **[Get code](Java-codes/Trie.java)**
