@@ -1,4 +1,3 @@
-
 /*
 	This is an implementation that collects the 
 	values of the nodes of a binary tree by performing 
