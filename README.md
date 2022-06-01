@@ -31,6 +31,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to create a disjoint-set data structure? **[Get code](Java-codes/DisjointSets.java)**
 * How to efficiently find the Levenshtein distance between two strings of characters? **[Get code](Java-codes/LevenshteinDistance.java)**
 * How to efficiently find the index of smallest value that is larger than some target in a sorted array? **[Get code](Java-codes/SmallestLargerThanTarget.java)**
 * How to perform an iterative depth first search through a binary tree? **[Get code](Java-codes/DepthFirstSearchIter.java)**
