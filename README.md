@@ -33,7 +33,6 @@ The contributed codes are written in one of the following programming languages:
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
 * How to create an adjacency list representation of a graph? **[Get code](Java-codes/AdjacencyList.java)**
 * How to perform a breadth first search through a binary tree? **[Get code](Java-codes/BreadthFirstSearch.java)**
-* How to perform a breadth first search through a binary tree? **[Get code](Java-codes/BreadthFirstSearch.java)**
 * How to create a disjoint-set data structure? **[Get code](Java-codes/DisjointSets.java)**
 * How to efficiently find the Levenshtein distance between two strings of characters? **[Get code](Java-codes/LevenshteinDistance.java)**
 * How to efficiently find the index of smallest value that is larger than some target in a sorted array? **[Get code](Java-codes/SmallestLargerThanTarget.java)**
