@@ -31,6 +31,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to find a target value within a binary search tree? **[Get code](Java-codes/BSTSearch.java)**
 * How to create an adjacency list representation of a graph? **[Get code](Java-codes/AdjacencyList.java)**
 * How to perform a breadth first search through a binary tree? **[Get code](Java-codes/BreadthFirstSearch.java)**
 * How to create a disjoint-set data structure? **[Get code](Java-codes/DisjointSets.java)**
