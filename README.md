@@ -32,6 +32,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to efficiently find the middle node of a singly linked list? **[Get code](Java-codes/MiddleNode.java)**
 * How to efficiently reverse a singly linked list? **[Get code](Java-codes/ReverseLinkedList.java)**
 * How to validate a binary search tree? **[Get code](Java-codes/ValidBST.java)**
 * How to find a target value within a binary search tree? **[Get code](Java-codes/BSTSearch.java)**
