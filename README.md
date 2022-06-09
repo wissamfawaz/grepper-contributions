@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to implement Dijkstra's shortest path algorithm? **[Get code](Python-codes/dijkstra.py)**
 * How to perform heap sort? **[Get code](Python-codes/heap_sort.py)**
 * How to create an efficient median finder for a stream of values? **[Get code](Python-codes/median_finder.py)**
 * How to check if a given string is a palindrome? **[Get code](Python-codes/palindrome.py)**
