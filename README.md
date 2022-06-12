@@ -64,6 +64,7 @@ The contributed codes are written in one of the following programming languages:
 * How to swap two values using a supporting method? **[Get code](Java-codes/SwapValues.java)**
 
 ### JavaScript codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />:
+* How to efficiently find all triplets in an array that sum up to some target value? **[Get code](JavaScript-codes/triplets.js)**
 * How to determine if one string is anagram of another? **[Get code](JavaScript-codes/anagram.js)**
 * How to find the index of the first non-repeating char in a string of lowercase alphabetic chars? **[Get code](JavaScript-codes/uniqueChar.js)**
 * How to perform selection sort? **[Get code](JavaScript-codes/selectionSort.js)**
