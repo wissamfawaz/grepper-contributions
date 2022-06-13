@@ -34,6 +34,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to efficiently find the start node of a loop within a singly linked list? **[Get code](Java-codes/FindLoop.java)**
 * How to implement the A* shortest path algorithm? **[Get code](Java-codes/AStarAlgorithm.java)**
 * How to efficiently find the middle node of a singly linked list? **[Get code](Java-codes/MiddleNode.java)**
 * How to efficiently reverse a singly linked list? **[Get code](Java-codes/ReverseLinkedList.java)**
