@@ -34,6 +34,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to efficiently solve the knapsack problem? **[Get code](Java-codes/KnapsackProblem.java)**
 * How to perform an iterative inorder traversal through a binary search tree? **[Get code](Java-codes/IterativeInOrderTraversal.java)**
 * How to efficiently find the first duplicate value in an array of ints? **[Get code](Java-codes/FirstDuplicateValue.java)**
 * How to determine if a graph contains a cycle? **[Get code](Java-codes/CycleInGraph.java)**
