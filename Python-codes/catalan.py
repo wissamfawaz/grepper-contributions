@@ -5,10 +5,10 @@ Catalan number. For instance,
 the nth catalan number gives the 
 number of unique binary search trees 
 which has exactly n nodes of unique values
-between 1 and n!
+between 1 and n.
 
 Let us denote it by Cn:
-C0 = 1 and Cn = 2(2n+1)Cn/(n+2)
+C0 = 1 and Cn+1 = 2(2n+1)Cn/(n+2)
 
 More info at:
 https://en.wikipedia.org/wiki/Catalan_number
