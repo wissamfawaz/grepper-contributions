@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to efficiently calculate the nth Catalan number? **[Get code](Python-codes/catalan.py)**
 * How to perform topological sort? **[Get code](Python-codes/topological_sort.py)**
 * How to build a Least Recently Used (LRU) cache? **[Get code](Python-codes/lru_cache.py)**
 * How to implement Dijkstra's shortest path algorithm? **[Get code](Python-codes/dijkstra.py)**
