@@ -36,6 +36,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to count the number of islands (groups of adjacent 1s) in a grid of 1s (land) and 0s (water)? **[Get code](Java-codes/NumberOfIslands.java)**
 * How to efficiently generate all combinations of well-formed parentheses for n pairs of them? **[Get code](Java-codes/GenerateParentheses.java)**
 * How to efficiently find the longest common subsequence of two strings? **[Get code](Java-codes/LongestCommonSubsequence.java)**
 * How to efficiently solve the knapsack problem? **[Get code](Java-codes/KnapsackProblem.java)**
