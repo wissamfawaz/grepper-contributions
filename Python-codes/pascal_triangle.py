@@ -1,8 +1,7 @@
 """
 This implementation demonstrates how to
-generate the elements of the Pascal's
-triangle 
-(https://en.wikipedia.org/wiki/Pascal%27s_triangle).
+generate the elements of Pascal's
+triangle (https://en.wikipedia.org/wiki/Pascal%27s_triangle).
 
 Let n be the number of rows to create.
 
