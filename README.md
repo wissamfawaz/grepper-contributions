@@ -37,6 +37,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to efficiently invert a binary tree? **[Get code](Java-codes/InvertBinaryTree.java)**
 * How to efficiently return the elements of a matrix in spiral order? **[Get code](Java-codes/SpiralTraversal.java)**
 * How to efficiently find the area of largest rectangle that can be formed by adjacent buildings with known heights? **[Get code](Java-codes/LargestRectangleArea.java)**
 * How to efficiently find the next greater permutation of a list of numbers? **[Get code](Java-codes/NextGreaterPermutation.java)**
