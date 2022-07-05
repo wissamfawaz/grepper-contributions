@@ -39,6 +39,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to efficiently find the lowest common ancestor of two given nodes in a binary tree? **[Get code](Java-codes/LowestCommonAncestor.java)**
 * How to efficiently multiply two int numbers represented as Strings? **[Get code](Java-codes/MultiplyStrings.java)**
 * How to efficiently invert a binary tree? **[Get code](Java-codes/InvertBinaryTree.java)**
 * How to efficiently return the elements of a matrix in spiral order? **[Get code](Java-codes/SpiralTraversal.java)**
