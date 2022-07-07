@@ -39,6 +39,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to generate all k combinations of numbers between 1 and n? **[Get code](Java-codes/Combinations.java)**
 * How to efficiently find a target element in a sorted matrix of distinct integers? **[Get code](Java-codes/SortedMatrixSearch.java)**
 * How to efficiently find the lowest common ancestor of two given nodes in a binary tree? **[Get code](Java-codes/LowestCommonAncestor.java)**
 * How to efficiently multiply two int numbers represented as Strings? **[Get code](Java-codes/MultiplyStrings.java)**
