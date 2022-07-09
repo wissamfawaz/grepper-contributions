@@ -39,6 +39,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to efficiently count the number of smaller elements to the right of every array element? **[Get code](Java-codes/SmallerNumbers.java)**
 * How to build a Sudoku solver? **[Get code](Java-codes/SudokuSolver.java)**
 * How to generate all k combinations of numbers between 1 and n? **[Get code](Java-codes/Combinations.java)**
 * How to efficiently find a target element in a sorted matrix of distinct integers? **[Get code](Java-codes/SortedMatrixSearch.java)**
