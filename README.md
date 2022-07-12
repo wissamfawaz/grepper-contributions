@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to generate the power set of a given set? **[Get code](Python-codes/power_set.py)**
 * How to efficiently determine if a search pattern is part of some bigger, target string? **[Get code](Python-codes/pattern_matching.py)**
 * How to to efficiently find the first index in a sorted array of distinct numbers that is equal to the value at that index? **[Get code](Python-codes/idx_matching_value.py)**
 * How to generate the elements of Pascal's triangle? **[Get code](Python-codes/pascal_triangle.py)**
