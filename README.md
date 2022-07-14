@@ -41,6 +41,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to generate all possible valid IP addresses based on a given set of digits? **[Get code](Java-codes/ValidIPAddresses.java)**
 * How to efficiently find the diameter of a binary tree? **[Get code](Java-codes/BinaryTreeDiameter.java)**
 * How to efficiently convert a sorted array into a min height binary search tree? **[Get code](Java-codes/SortedArrayToBST.java)**
 * How to efficiently count the number of smaller elements to the right of every array element? **[Get code](Java-codes/SmallerNumbers.java)**
