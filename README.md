@@ -43,6 +43,7 @@ The contributed codes are written in one of the following programming languages:
 * How to find the least common multiple of two integer numbers? **[Get code](Python-codes/least_common_multiple.py)**
 
 ### Java codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />:
+* How to find the longest palindrome substring in a given bigger string? **[Get code](Java-codes/LongestPalindromeSubstring.java)**
 * How to efficiently shift a linked list by k positions? **[Get code](Java-codes/LinkedListShifting.java)**
 * How to generate all possible valid IP addresses based on a given set of digits? **[Get code](Java-codes/ValidIPAddresses.java)**
 * How to efficiently find the diameter of a binary tree? **[Get code](Java-codes/BinaryTreeDiameter.java)**
