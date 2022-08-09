@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to efficiently implement Euler's totient function? **[Get code](Python-codes/totient.py)**
 * How to recursively sort a stack? **[Get code](Python-codes/sort_stack_rec.py)**
 * How to efficiently determine if all the grouping symbols of an expression match up correctly? **[Get code](Python-codes/grouping_symbols_matching.py)**
 * How to generate all the permutations of a set of values? **[Get code](Python-codes/permutations.py)**
