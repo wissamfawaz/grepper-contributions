@@ -1,23 +1,22 @@
-"""
-This implementation demonstrates how 
-to efficiently implement the so-called 
-Euler's totient function.
-
-This function takes an integer n as 
-input and returns the number of integers
-between 1 and n that are coprime with n. 
-Two numbers are said to be coprime if their
-greatest common divisor is equal to 1.
-
-
-Time complexity: O(sqrt(n))
-Space complexity: O(1)
-"""
-# The count of coprimes for n can be determined
-# through the prime factors of n as follows.
-
-
 def totient_function(n):
+    """
+    This implementation demonstrates how
+    to efficiently implement the so-called
+    Euler's totient function.
+
+    This function takes an integer n as
+    input and returns the number of integers
+    between 1 and n that are coprime with n.
+    Two numbers are said to be coprime if their
+    greatest common divisor is equal to 1.
+
+
+    Time complexity: O(sqrt(n))
+    Space complexity: O(1)
+
+    The count of coprimes for n can be determined
+    through the prime factors of n as follows.
+    """
     answer = n
     div = 2
     while div * div <= n:
@@ -39,5 +38,5 @@ def totient_function(n):
 
 # Number of ints that are coprime with 5 = 4
 print(totient_function(5))  # 4
-# Number of ints that are coprime with 5 = 8
+# Number of ints that are coprime with 20 = 8
 print(totient_function(20))  # 8
