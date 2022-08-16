@@ -98,6 +98,7 @@ The contributed codes are written in one of the following programming languages:
 * How to swap two values using a supporting method? **[Get code](Java-codes/SwapValues.java)**
 
 ### JavaScript codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />:
+* How to efficiently implement a priority queue? **[Get code](JavaScript-codes/priorityQueue.js)**
 * How to efficiently determine the number of ways in which a stair can be climbed? **[Get code](JavaScript-codes/climbingStairs.js)**
 * How to efficiently check whether a given array is monotonic? **[Get code](JavaScript-codes/arrayMonotonic.js)**
 * How to efficiently merge intervals in a set of arbitrary ones? **[Get code](JavaScript-codes/mergeIntervals.js)**
