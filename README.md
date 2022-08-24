@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to determine if a numeric value represents an Armstrong number? **[Get code](Python-codes/armstrong.py)**
 * How to find the greatest common divisor of two integers using the Euclidean algorithm? **[Get code](Python-codes/euclid_gcd.py)**
 * How to efficiently implement Euler's totient function? **[Get code](Python-codes/totient.py)**
 * How to recursively sort a stack? **[Get code](Python-codes/sort_stack_rec.py)**
