@@ -33,7 +33,7 @@ def is_disarium(num):
     return num == sum
 
 
-print("All Disarium numbers below 101: ")
+print("All Disarium numbers below 1001: ")
 for i in range(0, 1001):
     # Below prints: 0 1 2 3 4 5 6 7 8 9 89 135 175 518 598
     if is_disarium(i):
