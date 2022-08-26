@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to determine if a given numeric value represents a Disarium number? **[Get code](Python-codes/disarium_number.py)**
 * How to efficiently check if a numeric value represents a perfect number? **[Get code](Python-codes/perfect_number.py)**
 * How to determine if a numeric value represents an Armstrong number? **[Get code](Python-codes/armstrong.py)**
 * How to find the greatest common divisor of two integers using the Euclidean algorithm? **[Get code](Python-codes/euclid_gcd.py)**
