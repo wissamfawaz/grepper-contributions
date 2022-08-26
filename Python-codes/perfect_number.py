@@ -1,4 +1,4 @@
-from math import sqrt
+from math import isqrt
 
 
 def is_perfect(num):
@@ -18,12 +18,12 @@ def is_perfect(num):
     if num <= 5:
         return False
     sum = 1
-    div = 2
-    upper = sqrt(num)
-    while div <= upper:
+    for div in range(2, isqrt(num) + 1):
         if num % div == 0:
-            sum = sum + div + num // div
-        div += 1
+            sum += div + num // div
+        if sum > num:
+            return False
+
     return (num == sum)
 
 
