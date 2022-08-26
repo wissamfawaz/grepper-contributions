@@ -11,7 +11,7 @@ def is_armstrong(num):
     For example:  1, 2, 3, 4, 5, 6, 7, 8, 9, 153, 370, 
     371, 407, and 1634 are all Armstrong numbers
 
-    Time complexity: O(n^2)
+    Time complexity: O(nlog2(n))
     Space complexity: O(1)
     """
     if num < 0:
