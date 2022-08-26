@@ -11,7 +11,7 @@ def is_disarium(num):
     For example:  175 = 1^1 + 7^2 + 5^3, making 175 
     a Disarium number. 
 
-    Time complexity: O(n^2)
+    Time complexity: O(nlog2(n))
     Space complexity: O(1)
     """
     if num < 0:
