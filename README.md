@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to convert a phrase into an acronym? **[Get code](Python-codes/acronym_generator.py)**
 * How to determine if a given numeric value represents a Disarium number? **[Get code](Python-codes/disarium_number.py)**
 * How to efficiently check if a numeric value represents a perfect number? **[Get code](Python-codes/perfect_number.py)**
 * How to determine if a numeric value represents an Armstrong number? **[Get code](Python-codes/armstrong.py)**
