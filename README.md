@@ -14,6 +14,7 @@ The contributed codes are written in one of the following programming languages:
 ## Answered Queries
 
 ### Python codes <img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />:
+* How to find the Levenshtein distance between two strings? **[Get code](Python-codes/levenshtein_distance.py)**
 * How to fetch openai model ids and display them on screen for easy reference? **[Get code](Python-codes/chatgpt_python.py)**
 * How to encode or decode a number using the Gray coding scheme? **[Get code](Python-codes/gray_codec.py)**
 * How to convert a phrase into an acronym? **[Get code](Python-codes/acronym_generator.py)**
