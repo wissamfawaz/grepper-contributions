@@ -1,3 +1,6 @@
+# Let m be the length of str1 and n be the length of str2
+# Time complexity: O(n*m)
+# Space complexity: O(min(n, m))
 def levenshtein_distance(str1, str2):
     # Swap strings if str1 is longer than str2
     if len(str1) > len(str2):
